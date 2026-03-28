@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://maxchertin.github.io/MaxBlog/sitemap.xml
+Sitemap: https://maxchertin.github.io/sitemap.xml
